@@ -1,5 +1,4 @@
-![BannerGIF](https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203333135-LLNIKB08AXJFYQ29N7SM/ke17ZwdGBToddI8pDm48kJuI8p5FQJ1Eq-llLbNfaL4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcifh1MkPQjKnU_Rs9sxRN150Yr9pYbOEalzMkt27oSukz7aNRMMJoo3GiZBn07En7/AI.gif)
-
+![BannerGIF](https://blogs.microsoft.com/uploads/2016/04/Invisible-revolution-GIF.gif)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :22.05.2021](https://img.shields.io/badge/version-22.05.2021-informational) &nbsp;
@@ -14,7 +13,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence,Machine Learning,Augmented Reality,eXtended Reality and Computer Vision.\
 ✍️ &nbsp;In my free time I , play cricket, learn to play guitar and solve brainteasers.\
 ✉️ &nbsp;You can email me at atharva.kathale@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://bit.ly/3bLokRP).
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1m87h1zxAxGA9Ma_FvVpVTIIDV1cpgOPD/view?usp=sharing).
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
