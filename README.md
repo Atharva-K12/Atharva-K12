@@ -9,7 +9,12 @@
 
 💡 &nbsp; I am Atharva Kathale.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur (2019-2023).\
-🔭 &nbsp; I'm currently working as Machine Learning team member at IvLabs, an AI and Robotics community at VNIT,Nagpur.\
+🔭 &nbsp; Previously worked with :
+1. [IvLabs](https://github.com/IvLabs)
+2. [AlphaAI](https://github.com/Alpha-AI-LTD)
+3. [VirtualMe AI](https://www.linkedin.com/company/virtualmeai/)
+4. [Oracle FSGBU](https://www.oracle.com/in/industries/financial-services/)
+
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence,Machine Learning,Augmented Reality,eXtended Reality and Computer Vision.\
 ✍️ &nbsp;In my free time I , play cricket, learn to play guitar and solve brainteasers.\
 ✉️ &nbsp;You can email me at atharva.kathale@gmail.com. I'll try to respond as soon as possible!\
