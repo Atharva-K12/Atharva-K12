@@ -1,10 +1,8 @@
 ![BannerGIF](https://blogs.microsoft.com/uploads/2016/04/Invisible-revolution-GIF.gif)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :25.08.2021](https://img.shields.io/badge/version-25.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Atharva-K12&color=orange)&nbsp;
 [![GitHub Atharva-K12](https://img.shields.io/github/followers/Atharva-K12?label=follow&style=social)](https://github.com/Atharva-K12)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I am Atharva Kathale.\
@@ -13,7 +11,7 @@
 1. [IvLabs](https://github.com/IvLabs)
 2. [AlphaAI](https://github.com/Alpha-AI-LTD)
 3. [VirtualMe AI](https://www.linkedin.com/company/virtualmeai/)
-4. [Oracle FSGBU](https://www.oracle.com/in/industries/financial-services/)
+4. [Oracle](https://www.oracle.com/in/industries/financial-services/)
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence,Machine Learning,Augmented Reality,eXtended Reality and Computer Vision.\
 ✍️ &nbsp;In my free time I , play cricket, learn to play guitar and solve brainteasers.\
