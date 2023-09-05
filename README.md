@@ -6,7 +6,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I am Atharva Kathale.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur (2019-2023).\
+🎓 &nbsp;Graduated in B.Tech Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur (2019-2023).\
+
 🔭 &nbsp; Previously worked with :
 1. [IvLabs](https://github.com/IvLabs)
 2. [AlphaAI](https://github.com/Alpha-AI-LTD)
